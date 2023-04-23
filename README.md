@@ -77,9 +77,8 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## 🎉 Acknowledgements 
 
 I would like to express my gratitude to the following resources and individuals for their support and contributions in making this project a reality:
-
-Flutter Documentation for providing detailed information on how to build Flutter applications.
-Stack Overflow and Flutter community for providing support and resources to resolve technical issues during the development process.
+- Flutter Documentation for providing detailed information on how to build Flutter applications.
+- Stack Overflow and Flutter community for providing support and resources to resolve technical issues during the development process.
 
 
 ## 📢 Feedback
